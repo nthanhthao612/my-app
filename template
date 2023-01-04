@@ -1,0 +1,17 @@
+import { View, StyleSheet} from "react-native";
+
+const defaultValue = {
+    
+}
+
+export default function MainHomeScreen(){
+    return <View style={style.container}>
+
+    </View>
+}
+
+const style = StyleSheet.create({
+    container: {
+
+    }
+})
